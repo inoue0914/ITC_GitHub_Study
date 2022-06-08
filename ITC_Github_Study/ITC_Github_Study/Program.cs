@@ -14,7 +14,7 @@ namespace ITC_Github_Study
             n += m;
             Console.WriteLine(n);
             Console.Read();
-            Console.WriteLine("合計は{0}です");
+            Console.WriteLine("合計は{0}です",n);
         }
 
         static int numInput()

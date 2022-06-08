@@ -13,6 +13,7 @@ namespace ITC_Github_Study
 
             n += m;
             Console.WriteLine(n);
+            Console.Read();
         }
 
         static int numInput()
